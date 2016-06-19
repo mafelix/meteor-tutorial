@@ -1,8 +1,3 @@
+// requiring the our self built api-db connection in our modules
 import '../imports/api/tasks.js';
 
-
-// import { Meteor } from 'meteor/meteor';
-
-// Meteor.startup(() => {
-//   // code to run on server at startup
-// });
